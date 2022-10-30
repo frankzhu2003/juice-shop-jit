@@ -9,14 +9,18 @@
 2. Create Freestyle project
 > Execute shell
 ```
+# Clones the repository
 cd /Users/frankzhu/git/
 rm -R juice-shop
 git clone https://github.com/frankzhu2003/juice-shop
 
+# Compiles/builds the application
 cd /Users/frankzhu/git/juice-shop
 pwd
 docker build . -t juice-box1
 docker image ls
+
+#Compiles/builds the application
 npm install
 ```
 
