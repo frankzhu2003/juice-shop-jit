@@ -3,6 +3,9 @@
 ### Install docker
 Optional: only for build docker image
 
+### Signup Snyk
+https://snyk.io/
+
 ### Install Jenkins
 1. Install SNYK Jenkins plugin
 > Set up Snyk API token
