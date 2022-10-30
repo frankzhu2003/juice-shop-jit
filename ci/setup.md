@@ -26,5 +26,5 @@ Fail the build, if severity at or above Critical
 Target file: juice-shop_home/package.json
 ```
 
-### The Snyk Security Report
-[Juice Shop Logo](https://github.com/frankzhu2003/juice-shop/blob/master/ci/snyk_report.html)
+### The Snyk Security Report (https://github.com/frankzhu2003/juice-shop/blob/master/ci/snyk_report.html)
+
