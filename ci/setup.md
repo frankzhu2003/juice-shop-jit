@@ -1,6 +1,7 @@
 ### Install npm
 
 ### Install docker
+Optional: only for build docker image
 
 ### Install Jenkins
 1. Install SNYK Jenkins plugin
